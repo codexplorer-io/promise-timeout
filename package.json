@@ -1,0 +1,5 @@
+{
+  "name": "@codexporer.io/promise-timeout",
+  "version": "1.0.0",
+  "main": "src/index.js"
+}
